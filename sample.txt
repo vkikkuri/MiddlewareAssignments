@@ -1,1 +1,2 @@
 this is a sample file to demostrate git for an assignment
+These are the changes made to the file
